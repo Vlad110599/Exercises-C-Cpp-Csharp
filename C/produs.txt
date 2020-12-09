@@ -1,0 +1,4 @@
+Nume: Cola Cod: 001 Pret: 20.00 
+Nume: Fanta Cod: 002 Pret: 19.00 
+Nume: Pepsi Cod: 003 Pret: 18.00 
+Nume: Suc Cod: 004 Pret: 15.00 
